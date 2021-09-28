@@ -3,6 +3,8 @@ Rencana
     * Basic
     * Advanced
   2.Testing  C++
+    * Basic
+    * Advanced
   3.Testing  Python
   4.Testing  Java
   5.Testing  Ruby
