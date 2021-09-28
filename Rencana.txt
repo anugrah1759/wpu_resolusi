@@ -1,6 +1,8 @@
 Rencana
-  1.Testing A C
-  2.Testing B C++
-  3.Testing C Python
-  4.Testing D Java
-  5.Testing E Ruby
+  1.Testing  C
+    * Basic
+    * Advanced
+  2.Testing  C++
+  3.Testing  Python
+  4.Testing  Java
+  5.Testing  Ruby
