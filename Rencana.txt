@@ -8,5 +8,6 @@ Rencana
   3.Testing  Python
   4.Testing  Java
   5.Testing  Ruby
-    * Basic By Fitur1
-    * Advanced By Fitur1
+   * Advanced by Fitur2
+   * Basic by Fitur2
+
